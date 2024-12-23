@@ -1,6 +1,6 @@
 ## Hi, I'm Mahesh 👋
 
-<h3> I'm a AI Enthusiast and a recent Data Science Grad from Northeastern University.</h3>
+<h3> I'm an AI Enthusiast and a recent Data Science Grad from Northeastern University.</h3>
 
 ---
 
